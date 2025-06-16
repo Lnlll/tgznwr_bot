@@ -2,6 +2,8 @@ import json
 from aiogram import Bot, Dispatcher, types
 from aiogram import executor
 
+print("Bot запускается...") 
+
 API_TOKEN = '7739793046:AAEHulbFzSWmmOXCJ7qTE1TMnFMKR7u7jmE'  # Вставь сюда свой токен
 
 bot = Bot(token=API_TOKEN)
